@@ -1,0 +1,13 @@
+{
+  "_note": "SYNTHETIC / FICTIONAL applicant for demo and testing only. Not a real person; any resemblance is coincidental.",
+  "applicant_name": "SAMPLE — Fictional Applicant A",
+  "net_monthly_income": 100000,
+  "existing_obligations": 10000,
+  "bureau_score": 780,
+  "employment_type": "Salaried",
+  "loan_amount_requested": 1000000,
+  "tenure_months": 60,
+  "interest_rate_pct": 12.0,
+  "asset_value": 1250000,
+  "loan_purpose": "Home loan (secured)"
+}
