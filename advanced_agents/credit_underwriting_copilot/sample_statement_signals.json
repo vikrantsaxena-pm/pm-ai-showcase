@@ -1,0 +1,16 @@
+{
+  "_note": "SYNTHETIC / FICTIONAL ground-truth extraction for sample_statement.txt. Used for offline demo (no LLM key) and for tests. True observed income = Rs 85,000/month.",
+  "salary_like_credits": [
+    {"date": "05/01/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"},
+    {"date": "05/02/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"},
+    {"date": "05/03/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"},
+    {"date": "05/04/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"},
+    {"date": "05/05/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"},
+    {"date": "05/06/2026", "amount": 85000, "payer": "ACME TECHNOLOGIES PVT LTD"}
+  ],
+  "irregular_inflows": [
+    {"date": "18/03/2026", "amount": 40000, "description": "CASH DEPOSIT BRANCH"},
+    {"date": "21/05/2026", "amount": 3500, "description": "UPI/CR/FRIEND SETTLEMENT"}
+  ],
+  "detected_employer": "ACME TECHNOLOGIES PVT LTD"
+}

@@ -1,0 +1,28 @@
+SYNTHETIC / FICTIONAL BANK STATEMENT — FOR DEMO & TESTING ONLY. NOT A REAL ACCOUNT.
+=====================================================================================
+Account Holder: SAMPLE — Fictional Applicant A
+Account No: XXXXXXXX1234        Branch: Sample Nagar
+Statement Period: 01 Jan 2026 to 30 Jun 2026        Currency: INR
+
+Date        Narration                                          Debit        Credit       Balance
+05/01/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY JAN                    85,000.00    112,300.00
+09/01/2026  UPI/DR/PAYTM/RECHARGE                               499.00                   111,801.00
+15/01/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                93,801.00
+28/01/2026  ATM WDL SELF                                        10,000.00                83,801.00
+05/02/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY FEB                    85,000.00    168,801.00
+15/02/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                150,801.00
+22/02/2026  UPI/DR/SWIGGY                                       640.00                   150,161.00
+05/03/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY MAR                    85,000.00    235,161.00
+15/03/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                217,161.00
+18/03/2026  CASH DEPOSIT BRANCH                                              40,000.00    257,161.00
+27/03/2026  UPI/DR/AMAZON                                       2,300.00                 254,861.00
+05/04/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY APR                    85,000.00    339,861.00
+15/04/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                321,861.00
+05/05/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY MAY                    85,000.00    406,861.00
+15/05/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                388,861.00
+21/05/2026  UPI/CR/FRIEND SETTLEMENT                                        3,500.00     392,361.00
+05/06/2026  NEFT CR ACME TECHNOLOGIES PVT LTD SALARY JUN                    85,000.00    477,361.00
+15/06/2026  ACH DR HDFC HOME LOAN EMI                           18,000.00                459,361.00
+
+Notes: Salary credited on the 5th of each month by ACME TECHNOLOGIES PVT LTD (Rs 85,000).
+The 18/03/2026 cash deposit and 21/05/2026 UPI receipt are one-off, non-salary inflows.
